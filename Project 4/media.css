@@ -1,0 +1,30 @@
+@media (max-width: 760px) {
+  .hero-section {
+    min-height: 50vh;
+  }
+
+  .text-container {
+    text-align: center;
+  }
+
+  .lg-text {
+    font-size: 32px;
+  }
+
+  .black-box h2 {
+    font-size: 24px;
+  }
+
+  .black-box span {
+    font-weight: 400;
+    font-size: 32px;
+  }
+
+  .bottom {
+    display: block;
+  }
+
+  footer {
+    font-size: 20px;
+  }
+}

@@ -1,0 +1,42 @@
+@media (max-width: 1210px) {
+  .search input {
+    min-width: 300px;
+    padding: 0px 10px;
+  }
+}
+
+@media (max-width: 787px) {
+  .search input {
+    min-width: 150px;
+    padding: 0px 5px;
+  }
+
+  nav {
+    gap: 25px;
+  }
+}
+
+@media (max-width: 426px) {
+  body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+  }
+  /* .main-container {
+    display: flex;
+    flex-direction: column;
+  }
+  .card-container {
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .card {
+    margin: 0px auto;
+  } */
+}
